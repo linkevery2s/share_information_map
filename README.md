@@ -4,7 +4,7 @@
 情報共有マップのオープンソースです。Googleフォームで投稿した情報がWEBマップにリアルタイムで表示されます。
 
 # 使い方
-マニュアルを参照してください。
+[マニュアル](https://github.com/linkevery2s/share_information_map/blob/main/manual.pdf)を参照してください。
 
 # ライセンス
-CC BY 4.0、ソースコードはMITライセンスです。ご自由に改変・加工してください。
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)、ソースコードは[MITライセンス]()です。ご自由に改変・加工してください。
