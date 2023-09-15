@@ -7,4 +7,9 @@
 [マニュアル](https://github.com/linkevery2s/share_information_map/blob/main/manual.pdf)を参照してください。
 
 # ライセンス
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)、ソースコードは[MITライセンス]()です。ご自由に改変・加工してください。
+
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
+
+ソースコードは[MITライセンス](https://github.com/linkevery2s/share_information_map/blob/main/LICENSE)です。
+
+ご自由に改変・加工してください。
