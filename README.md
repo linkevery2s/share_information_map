@@ -18,3 +18,6 @@
 ソースコードは[MITライセンス](https://github.com/linkevery2s/share_information_map/blob/main/LICENSE)です。
 
 ご自由に改変・加工してご利用ください。
+
+# 更新履歴
+2024.01.14 Google Driveの画像URL仕様変更により、index.htmlのimgタグを修正
