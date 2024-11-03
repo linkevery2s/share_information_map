@@ -15,8 +15,6 @@
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
 
-ソースコードは[MITライセンス](https://github.com/linkevery2s/share_information_map/blob/main/LICENSE)です。
-
 ご自由に改変・加工してご利用ください。
 
 # 更新履歴
